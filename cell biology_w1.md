@@ -1,8 +1,3 @@
----
-title: cell biology
-
----
-
 ## W1: Introduction to cell and cell research
 ### Cell & cell biology
 #### what is cytology?
