@@ -1,16 +1,8 @@
 ---
-title: 無標題
+title: Biochemistry note
 
 ---
 
-<style>
-    .markdown-body table{
-        width: fit-content;
-        max-width: 90%;
-        margin-left: auto;
-        margin-right: auto;
-    }
-</style>
 # biochemistry 2nd midterm
 ## Carbs metabolism
 ### glycolysis 簡介
@@ -40,7 +32,7 @@ flowchart LR
 
 $$
 \begin{array}{l r}
-\text{pyruvate}+\text{NADH}+H^+\rightleftharpoons \text{L-lactate}+\text{NAD}^+ & \Delta G = -25.1\ \text{kJ/mol}
+\text{pyruvate}+\text{NADH}+H^+\rightleftharpoons \text{L-lactate}+\text{NAD}^{+} & \Delta G = -25.1\ \text{kJ/mol}
 \end{array}
 $$
 
@@ -48,7 +40,7 @@ $$
 - 酒精發酵涉及丙酮酸變成乙醛跟二氧化碳，然後轉化成乙醇:
 $$
 \begin{array}{l r}
-\text{acetaldehyde}+\text{NADH}+H^2\rightleftharpoons\text{ethanol}+\text{NAD}^+ & \Delta G = -23,7\ \text{kJ/mol}
+\text{acetaldehyde}+\text{NADH}+H^2\rightleftharpoons\text{ethanol}+\text{NAD}^{+} & \Delta G = -23.7\ \text{kJ/mol}
 \end{array}
 $$
 - 主要類型包含Homolactic (產生乳酸)、Alcoholic (產生酒精)、Butanediol (產生丁二醇)
@@ -116,12 +108,14 @@ flowchart LR
 #### 1. 第一次ATP消耗
 - 利用hexokinase，在葡萄糖的六號碳身上加上一個磷酸基
 - 需要用到$Mg^{2+}$
-> [!Tip] 基本上所有和ATP作用有關的酵素都需要用到鎂離子 !
+> [!Tip]
+> 基本上所有和ATP作用有關的酵素都需要用到鎂離子 !
 
 - 哺乳動物身上有不同的hexokinase，催化同一個分子的不同酵素被稱為isoenzyme 或是 isozyme
 - 細胞內的葡萄糖濃度高 (通常高於任何hexokinase的$K_m$值)
 - 其中，hexokinase IV (又稱為glucokinase) 對葡萄糖有較低親和力，在圖呈現S (sigmoidal) 曲線，它主要在肝臟中出現，只有在極高血糖時才開始利用葡萄糖
->[!Important] 這種特性讓肝臟能調節葡萄糖使用跟提供
+>[!Important]
+>這種特性讓肝臟能調節葡萄糖使用跟提供
 ##### 備註: 葡萄糖磷酸轉移酶系統 (PTS)
 - 細菌的特殊醣類運作機制
 - 能量來源以PEP為主，如下:
@@ -143,7 +137,8 @@ $$
 $$
 \Delta\ G=\Delta G^\circ\text{'} + RT\ln\frac{[product]}{[reactants]}
 $$
->[!Tip] 只要G3P消耗得快，反應就能一直進行 !
+>[!Tip]
+>只要G3P消耗得快，反應就能一直進行 !
 
 ##### 備註: 席夫鹼的功能
 - Schiff base是一種亞胺，醛縮酶活性位點上的Lys殘基，其胺基可以跟F16BP的羰基結合，形成Schiff base
@@ -161,9 +156,7 @@ $$
 - 整體反應其實是放能 (醛變成酸) 跟吸能 (磷酸化) 兩個反應結合的結果:
 $$\boxed{\text{aldehyde}}+H_2O+NAD^+\rightarrow \boxed{\text{acid}}+NADH+H^+\overset{+\text{Pi}}{\rightarrow}\boxed{\text{醯基磷酸酯}}+H_2O$$
 - 碘乙酸會不可逆的烷基化GAPDH的cysteine殘基，導致酵素失去活性:
-$$
-\boxed{GAPDG}-SH+ICH_2COO^- \rightarrow \boxed{GAPDG}-S-CH_2COO^- + HI
-$$
+$$\boxed{GAPDG}-SH+ICH_2COO^- \rightarrow \boxed{GAPDG}-S-CH_2COO^- + HI$$
 #### 7. 第一次底物水平磷酸化
 - 1,3-BPG在phosphoglycerate kinase的作用，$Mg^{2+}$的催化下，一號碳脫去一個磷酸基團，形成ATP，和3-磷酸甘油酸 (3-PG)
 - 和上一個反應做結合，相當於把醛變成酸所產生的能量，透過ATP的形式保存下來
