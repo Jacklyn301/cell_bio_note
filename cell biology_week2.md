@@ -2,26 +2,14 @@
 title: cell biology_w2
 
 ---
-
-<style>
-    .markdown-body {
-        max-width: 1000px !important;
-        margin: 0 auto;
-    }
-</style>
 ## W2: The Nucleus
-<span style="color: #8f8f8f">學號: 4113052130<br>科系: 生科2<br>姓名: 徐詠智</span>
 ### 簡介
 - 在原核生物中，一條mRNA的轉錄跟轉譯同時進行。細胞核的出現將轉錄跟轉譯分開，其中:
   - 轉錄在細胞核中進行
   - 轉譯在細胞質中進行
 #### structure
 - 兩個細胞膜，包含outer and inner membranes、核纖層 (nuclear lamina)、核孔 (屬於複合蛋白，又稱為nuclear pore complex)
-
-<div style="display: flex; gap: 20px">
-    <img src="https://raw.githubusercontent.com/Jacklyn301/image_bank/main/anatomy_of_nucleus.jpg" style="width: 60%; margin-right: 20%; margin-left: 20%;">
-</div>
-
+![image](https://raw.githubusercontent.com/Jacklyn301/image_bank/main/anatomy_of_nucleus.jpg)
 #### membranes
 - 作為細胞核跟細胞質的barriers。只有小的，非極性的分子可以通過
 ##### outer membrane
@@ -35,9 +23,7 @@ title: cell biology_w2
 - 為一種有系統的網狀結構，分佈於核模內側，作為細胞核支持用
 - 由核纖蛋白組成 (lamins)，核纖蛋白形成的多肽鏈會兩條纏在一起，形成二聚體 (dimer)
 
-<div style="display: flex; gap: 20px">
-    <img src="https://raw.githubusercontent.com/Jacklyn301/image_bank/main/lamin_structure_0302.png" style="width: 70%; margin-right: 15%; margin-left: 15%;">
-</div>
+![image](https://raw.githubusercontent.com/Jacklyn301/image_bank/main/lamin_structure_0302.png)
 
 - 核纖層連結到很多東西
   - 透過LINC蛋白質複合體接到細胞骨架
@@ -50,9 +36,7 @@ title: cell biology_w2
 >[!Tip]
 > 細胞核牆壁不穩 → 細胞功能異常
 
-<div style="display: flex; gap: 20px">
-    <img src="https://raw.githubusercontent.com/Jacklyn301/image_bank/main/lamina_structure_0302.png" style="width: 70%; margin-right: 15%; margin-left: 15%;">
-</div>
+![image](https://raw.githubusercontent.com/Jacklyn301/image_bank/main/lamina_structure_0302.png)
 
 #### 核孔複合物
 - 讓帶有極性的小分子、離子跟大分子通過的地方，由30種不同的孔蛋白 (nucleoporins, NUPs) 組成，形成八重的對稱結構
@@ -67,9 +51,7 @@ title: cell biology_w2
 ##### 纖維結構
 - 細胞質側有 "細胞質纖維" (cytoplasmic fliament)，像觸手一樣伸向外部，幫助捕捉運輸蛋白。
 - 核內側有 "核籠" (nuclear basket)，像籃子一樣懸掛在孔下方，協助分子選擇與調控。
-<div style="display: flex; gap: 20px">
-    <img src="https://raw.githubusercontent.com/Jacklyn301/image_bank/main/NPC_structure_0302.png" style="width: 70%; margin-right: 15%; margin-left: 15%;">
-</div>
+![image](https://raw.githubusercontent.com/Jacklyn301/image_bank/main/NPC_structure_0302.png)
 
 ##### mechanisms
 - 穿過核孔有兩大方式: 
@@ -135,11 +117,6 @@ title: cell biology_w2
 
 ##### 其餘蛋白回收 
 - Exportin 和 Ran-GDP 則透過 NTF2 (對又是它) 回到核內，準備下一輪輸出
-
-<div style="display: flex; gap: 20px">
-    <img src="https://raw.githubusercontent.com/Jacklyn301/image_bank/main/NLS_pathway_0301.png" style="width: 62%; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/Jacklyn301/image_bank/main/NES_pathway_0302.png" style="width: 38%;">
-</div>
 
 #### 來做一個小總結
 ##### 傳入細胞核
@@ -227,10 +204,7 @@ flowchart LR
 
 - 然後被一種importin，也就是snorportin，帶回細胞核
 
-<div style="display: flex; gap: 20px">
-    <img src="https://raw.githubusercontent.com/Jacklyn301/image_bank/main/RNA_transform_0302.png" style="width: 70%; margin-right: 15%; margin-left: 15%;">
-</div>
-
+![image](https://raw.githubusercontent.com/Jacklyn301/image_bank/main/RNA_transform_0302.png)
 ##### others RNAs
 - tRNA and miRNA的輸出有其它的exportins
 - rRNA跟ribosomal proteins結合，跟snRNA一樣，利用Crm1被運出去
@@ -264,9 +238,7 @@ style R fill: #ff5ecd, stroke: #8d0061, stroke-width: 2px
 #### Chromosome territories
 - 染色質並非隨機分布，各個染色體的著絲點跟端粒會落於核膜的兩端，並且各自雄霸一方
 
-<div style="display: flex; gap: 20px">
-    <img src="https://raw.githubusercontent.com/Jacklyn301/image_bank/main/Chromosome_territory_0302.png" style="width: 70%; margin-right: 15%; margin-left: 15%;">
-</div>
+![image](https://raw.githubusercontent.com/Jacklyn301/image_bank/main/Chromosome_territory_0302.png)
 #### 轉錄活性
 - 真染色質 (Euchromatin) 比較鬆散，在間期的細胞裡面轉錄很多。通常位於核孔附近
 - 異染色質 (Heterochromatin) 比較密集，高度濃縮，不具轉錄活性，通常在核仁附近
@@ -283,6 +255,4 @@ style R fill: #ff5ecd, stroke: #8d0061, stroke-width: 2px
 |PML bodies (ND10)|10~30|與 DNA 修復、基因調控、抗病毒反應、細胞命運控制以及腫瘤抑制有關。PML 基因突變會導致急性早幼粒細胞白血病|
 |Speckles|20~50|富含剪接因子，與 mRNA 剪接與加工有關，snRNP在Cajal body組裝為壁就會被送到這裡來|
 
-<div style="display: flex; gap: 20px">
-    <img src="https://raw.githubusercontent.com/Jacklyn301/image_bank/main/nuclear_body_0302.png" style="width: 70%; margin-right: 15%; margin-left: 15%;">
-</div>
+![image](https://raw.githubusercontent.com/Jacklyn301/image_bank/main/nuclear_body_0302.png)
