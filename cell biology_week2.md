@@ -113,7 +113,7 @@ title: cell biology_w2
 - 在核內，Exportin 需要與 Ran-GTP 一起結合有 NES 的蛋白，形成三元複合體。這個複合體才能被NPC認可並輸出到細胞質
 
 ##### 釋放機制 
-到達細胞質後，Ran-GTP 被水解成 Ran-GDP，導致複合體解離，蛋白質被釋放到細胞質中
+- 到達細胞質後，Ran-GTP 被水解成 Ran-GDP，導致複合體解離，蛋白質被釋放到細胞質中
 
 ##### 其餘蛋白回收 
 - Exportin 和 Ran-GDP 則透過 NTF2 (對又是它) 回到核內，準備下一輪輸出
