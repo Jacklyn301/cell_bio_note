@@ -162,13 +162,13 @@ style C fill: #e57bff, stroke: #000
 
 #### 對照表來看一下 🗂️
 
+
 | 類型 | 訊號序列位置 | 是否可裂解 | 嵌入方式 | 常見蛋白 |
 |------|--------------|------------|----------|----------|
-| 可裂解訊號序列 | N 端 | ✅ | SRP → translocon幫忙嵌入 | 分泌蛋白 |
-| 不可裂解訊號序列 | N 端或內部 | ❎ | SRP幫忙嵌入 → 錨定膜 | 單次跨膜蛋白 |
-| 多個跨膜序列 | 多個疏水片段 | ❎ | 多次進出 translocon | GPCR、通道蛋白 |
-| 尾錨型 | C 端 | ❎ | GET pathway → ER 膜 | SNARE、尾錨蛋白 |
-
+| 🟡 <span style="background-color: #ffde7b">**可裂解訊號序列**</span> | N 端 | ✅ | SRP → translocon幫忙嵌入 | 分泌蛋白 |
+| 🔴 <span style="background-color: #ff7f7b">**不可裂解訊號序列**</span> | N 端或內部 | ❎ | SRP幫忙嵌入 → 錨定膜 | 單次跨膜蛋白 |
+| 🟣 <span style="background-color: #d17bff">**多個跨膜序列**</span> | 多個疏水片段 | ❎ | 多次進出 translocon | GPCR、通道蛋白 |
+| 🔵 <span style="background-color: #7bc4ff">**尾錨型**</span> | C 端 | ❎ | GET pathway → ER 膜 | SNARE、尾錨蛋白 |
 
 
 #### 備註: hydropathy plot
