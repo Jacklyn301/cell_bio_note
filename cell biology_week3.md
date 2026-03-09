@@ -3,14 +3,7 @@ title: cell biology_w3
 
 ---
 
-<style>
-    .markdown-body {
-        max-width: 1000px !important;
-        margin: 0 auto;
-    }
-</style>
 ## W3: Protein Sorting and Transport I
-<span style="color: #8f8f8f">學號: 4113052130<br>科系: 生科2<br>姓名: 徐詠智</span>
 ### 分泌途徑跟內質網
 #### the secretory pathway
 - 蛋白質的分泌途徑是由George Palade跟他的同僚在1960年代提出，利用胰腺細胞首次描繪出蛋白質從核糖體到內質網、高基氏體、囊泡到分泌出去細胞的途徑: 
@@ -36,9 +29,7 @@ style C fill: #e57bff, stroke: #000
 - 假如說有一個蛋白質鑲嵌在**內質網的內側**，他將會分泌時鑲嵌於**高基氏體的內側**，並且在分泌時鑲嵌於**細胞膜的外側**
 - 反之，鑲嵌於**內質網外側**的蛋白質，會出現在**高基氏體的外側**，並且鑲嵌在**細胞膜內側**
 
-<div style="display: flex; gap: 20px">
-    <img src="https://raw.githubusercontent.com/Jacklyn301/image_bank/main/SP_and_topology.png" style="width: 80%; margin-right: 10%; margin-left: 10%;">
-</div>
+![image](https://raw.githubusercontent.com/Jacklyn301/image_bank/main/SP_and_topology.png)
 
 
 #### 蛋白質的分泌目標點
@@ -187,9 +178,7 @@ style C fill: #e57bff, stroke: #000
 - 最後呈現出來的圖，就會出現高高低低的鋒值。通常，**每一個高峰，也就是比較疏水的區域，代表的就是一個跨膜的序列!**
 - 要是plot上面有7個鋒，那就可能是GPCR (例如血清素受體5-HT2A，7個 $\alpha$ -helix )，要是有12個鋒，那就可能是轉運蛋白 (例如GLUT1，12個 $\alpha$ -helix)
 
-<div style="display: flex; gap: 20px">
-    <img src="https://i.ytimg.com/vi/2SglVJiuiVM/maxresdefault.jpg" style="width: 80%; margin-right: 10%; margin-left: 10%;">
-</div>
+![image](https://i.ytimg.com/vi/2SglVJiuiVM/maxresdefault.jpg)
 
 ### 蛋白質的摺疊跟修飾
 #### what is BiP?
@@ -250,6 +239,4 @@ timeline
 - 預先合成好的GPI結構 (磷脂 + 糖鏈組成) 會被 GPI transamidase接到蛋白質C端。
 - 當蛋白質最後被送到細胞膜外層時，它就靠GPI錨固定，而不是跨膜的疏水域 !
 
-<div style="display: flex; gap: 20px">
-    <img src="https://image.slideserve.com/711136/slide19-l.jpg" style="width: 80%; margin-right: 10%; margin-left: 10%;">
-</div>
+![image](https://image.slideserve.com/711136/slide19-l.jpg)
