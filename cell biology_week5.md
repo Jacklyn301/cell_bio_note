@@ -135,7 +135,7 @@ flowchart LR
 - 將捐助者卵子的染色體人工移除，並且將病患的染色體植入，就形成一個有 "捐助者粒線體 + 病患染色體" 的卵子
 - 最後再試管受精 (*in vitro*)，完成療程
 
-![image alt](https://www.cell.com/cms/attachment/2024843481/2044489296/gr1.jpg)
+![image alt](https://github.com/Jacklyn301/image_bank/blob/main/mitochondrial_replacement_therapy_0324.png)
 
 #### 蛋白質運輸跟組裝
 - 由於大部分粒線體蛋白質來自粒線體外面，如果是進入基質的蛋白質，需要穿過內膜跟外膜，而不同蛋白質還要被分配到屬於他們的位置，有些是鑲嵌在內膜上，有些是溶於膜間腔
