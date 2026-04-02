@@ -4,7 +4,6 @@ title: cell biology_w6
 ---
 
 ## W6: Mitochondria, Chloroplasts, and Peroxisomes II
-<span style="color: #8f8f8f">學號: 4113052130<br>科系: 生科2<br>姓名: 徐詠智</span>
 
 ### chloroplast
 > 讓我們繼續上完那還沒有結束的葉綠體... 🙂
