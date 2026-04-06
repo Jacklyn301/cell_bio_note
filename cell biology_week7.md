@@ -3,14 +3,7 @@ title: cell biology_w7
 
 ---
 
-<style>
-    .markdown-body {
-        max-width: 1000px !important;
-        margin: 0 auto;
-    }
-</style>
 ## W7: The Cytoskeleton and Cell Movement II
-<span style="color: #8f8f8f">學號: 4113052130<br>科系: 生科2<br>姓名: 徐詠智</span>
 ### actin filament (延續上週)
 #### 肌肉細胞結構
 - 由肌纖維組成，是一種很大的，**多核**的細胞 (想像一堆細胞融合在一起)
@@ -188,14 +181,16 @@ title: cell biology_w7
 - 有些原生動物 (例如草履蟲，paramecium) 的纖毛，可以幫助個體移動，也可以用來幫忙抓取食物
 - 在動物體內，纖毛負責推動某些物體 (例如黏液) 的移動，例如在呼吸道內皮的上皮細胞上，都有纖毛，幫忙掃除異物
 - 以 "抽動" 的方式擺動
+<div style="display: flex; gap: 20px">
+    <img src="https://cdn.mos.cms.futurecdn.net/q7628oSE2QHHdJjUagWiX.jpg" style="width: 80%; margin-right: 10%; margin-left: 10%;">
+</div>
+
 
 ##### flagella擺動
 - 跟纖毛很相似，只是通常鞭毛更長，而且是以 "波動" 的方式擺動
 - 通常細胞只有一到兩根鞭毛，負責個體的運動 (例如甲藻或是精子)
-
 <div style="display: flex; gap: 20px">
-    <img src="https://cdn.mos.cms.futurecdn.net/q7628oSE2QHHdJjUagWiX.jpg" style="width: 57%; margin-right: 10px;">
-    <img src="https://cdn.britannica.com/93/184793-050-F84C51C9/dinoflagellate-tripos-Ceratium.jpg" style="width: 43%;">
+    <img src="https://cdn.britannica.com/93/184793-050-F84C51C9/dinoflagellate-tripos-Ceratium.jpg" style="width: 80%; margin-right: 10%; margin-left: 10%;">
 </div>
 
 
