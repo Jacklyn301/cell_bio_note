@@ -2,15 +2,7 @@
 title: cell biology_w9
 
 ---
-
-<style>
-    .markdown-body {
-        max-width: 1000px !important;
-        margin: 0 auto;
-    }
-</style>
 ## before we start the class... 👀
-<span style="color: #8f8f8f">學號: 4113052130<br>科系: 生科2<br>姓名: 徐詠智</span>
 ### active transport (延續上周)
 #### 小腸上皮細胞的葡萄糖轉運
 ##### in the apical domain...
