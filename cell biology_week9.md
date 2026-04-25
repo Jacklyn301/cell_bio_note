@@ -17,6 +17,7 @@ title: cell biology_w9
 - 可以做為輸入 (例如帶入營養物質)，也可作為輸出 (例如帶出有毒物質)
 - 由四個區域組成: 兩個ATP結合域，兩個跨膜蛋白域
 - 每個跨膜蛋白域由六個 $\alpha$ -helix組成
+
 ![image alt](https://www.cusabio.com/statics/images/ABC-Mechanism.png)
 
 ## W9: The plasma membrane II, Cell walls, the extracellular matrix and cell interactions
@@ -102,9 +103,11 @@ title: cell biology_w9
 - GAGs主要負責抓住水分，形成膠狀質地。其中，唯一一個以單一長型多醣鏈型式存在的GAGs，就是玻尿酸 (又稱為透明質酸，hyaluronan)
 - 玻尿酸的合成是透過膜上面的波尿酸合成酶產生 (跟纖維素的合成地點有點像耶 👀)
 - 蛋白聚醣 (proteoglycans) 就是一條核心的多肽鏈上面接了好多個GAGs分子，這些蛋白聚醣跟玻尿酸產生作用，形成非常大型的複合體
+
 <div style="display: flex; gap: 20px">
     <img src="https://image1.slideserve.com/3147013/glycosaminoglycans-l.jpg" style="width: 70%; margin-right: 15%; margin-left: 15%;">
 </div>
+
 #### matrix structural protein
 ##### what is collagen
 - 膠原蛋白是屬於ECM中最常見的結構性蛋白之一，由三條蛋白質多肽形成的 $\alpha$ -helix纏繞而成
@@ -138,6 +141,7 @@ classDef golgi fill:#a8d8ff,stroke:#2980b9,stroke-width:2px,color:#000
 classDef exocytosis fill:#7fb3d5,stroke:#1f4e79,stroke-width:2px,color:#000
 classDef final fill:#d6f5d6,stroke:#27ae60,stroke-width:2.5px,color:#000
 ```
+
 ##### type IV collagen
 - 屬於網狀樣貌的膠原蛋白，相對於type I collagen來說，更加有彈性
 
@@ -161,6 +165,7 @@ classDef final fill:#d6f5d6,stroke:#27ae60,stroke-width:2.5px,color:#000
 ##### laminins
 - 層粘連蛋白就是基底層的主要黏接蛋白，是一個十字架形狀的，由 $\alpha$ 、 $\beta$ 、 $\gamma$ 亞基形成的 "異三聚體" (heterotrimers，也就是三個亞基結構並非相同的三聚體)
 - 能夠自我組裝成網狀結構，上頭一樣有給蛋白聚醣、integrins結合的位點
+
 ![image alt](https://www.jbc.org/cms/10.1016/j.jbc.2024.107429/asset/514a4995-b58a-4a3a-84f2-87219e1366fb/main.assets/gr3.jpg)
 
 ##### nidogen
