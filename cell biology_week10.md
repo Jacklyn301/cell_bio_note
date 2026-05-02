@@ -3,15 +3,7 @@ title: cell biology_w10
 
 ---
 
-<style>
-    .markdown-body {
-        max-width: 1000px !important;
-        margin: 0 auto;
-    }
-</style>
 ## W10: cell signaling
-<span style="color: #8f8f8f">學號: 4113052130<br>科系: 生科2<br>姓名: 徐詠智</span>
-
 ### signaling molecules and their receptors
 - 細胞訊號傳遞通常跟受體 (receptors) 以及配體 (ligands) 有關係，促進一系列的細胞內反應
 - 調控的反應包含但不限於: 細胞代謝、移動、分化跟增值
